@@ -5,3 +5,6 @@
   tasks:
     - name: Simple shell
       command: 'hostname'
+
+    - name: Another simple command
+      command: 'nslookup google.com'
