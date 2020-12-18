@@ -1,1 +1,3 @@
 # simaple_ansible_project
+
+0b2e9000a0d5cad4eba1bbfc6c514c47e4a6de1a

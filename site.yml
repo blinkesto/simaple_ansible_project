@@ -4,4 +4,4 @@
 
   tasks:
     - name: Simple shell
-      shell: 'whoami'
+      command: 'hostname'
