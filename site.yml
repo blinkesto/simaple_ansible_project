@@ -8,3 +8,6 @@
 
     - name: Another simple command
       command: 'nslookup google.com'
+
+    - name: 3rd simple command
+      command: 'nslookup cnn.com'
